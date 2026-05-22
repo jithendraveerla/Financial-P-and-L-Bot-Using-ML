@@ -108,9 +108,12 @@ How to Run
 Open the notebook in Google Colab
 Run all cells
 Upload a financial statement PDF
+
 Click Process Document
+
 Ask financial questions in the interface
 Repository Structure
+
 financial-qa-chatbot
 │
 ├── financial_qa_chatbot.ipynb
